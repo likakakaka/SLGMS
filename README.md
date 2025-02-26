@@ -20,7 +20,7 @@ inspiration from the recently introduced state space model and propose the Visua
 ## Overview
 
 <p align="center">
-  <img src="assets/framework.png" alt="overview" width="80%">
+  <img src="assets/framework.png" alt="overview" width="100%">
 </p>
 
 ## Main Results
