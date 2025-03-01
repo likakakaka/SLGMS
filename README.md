@@ -52,7 +52,7 @@ pip install .
 * Download [VMamba_pretrained_pt](https://github.com/MzeroMiko/VMamba/releases/download/%23v2cls/vssm1_tiny_0230s_ckpt_epoch_264.pth).
 * Preprocess the original chest radiographs by ChexMask ([paper](https://www.nature.com/articles/s41597-024-03358-1), [code](https://github.com/ngaggion/CheXmask-Database))
 <p align="center">
-  <img src="assets/chest_preprocessing.png" alt="overview" width="60%">
+  <img src="assets/chest_preprocessing.png" alt="overview" width="80%">
 </p>
 *Tip.*
    - As for the Rectangular Lung Region achievement, we provide the [data_preprocessing_by_chexmask.py](data_preprocessing_by_chexmask.py). Though replace it with ['CheXmask-Database/HybridGNet/inferenceWithHybridGNet.py'](https://github.com/ngaggion/CheXmask-Database), you can get the same data preprocessing like our paper.

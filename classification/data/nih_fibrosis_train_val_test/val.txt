@@ -1,0 +1,204 @@
+00007966_002.png	Fibrosis
+00007966_000.png	Fibrosis
+00017109_000.png	Fibrosis
+00000524_002.png	Fibrosis
+00009166_013.png	Fibrosis
+00009166_012.png	Fibrosis
+00009166_007.png	Fibrosis
+00006980_001.png	Fibrosis
+00002284_000.png	Fibrosis
+00007482_022.png	Fibrosis
+00006496_000.png	Fibrosis
+00011706_000.png	Fibrosis
+00011409_000.png	Fibrosis
+00000218_005.png	Fibrosis
+00006868_008.png	Fibrosis
+00006868_005.png	Fibrosis
+00004350_000.png	Fibrosis
+00002038_000.png	Fibrosis
+00017323_003.png	Fibrosis
+00000407_001.png	Fibrosis
+00002438_000.png	Fibrosis
+00024226_000.png	Fibrosis
+00024226_002.png	Fibrosis
+00007317_019.png	Fibrosis
+00012445_000.png	Fibrosis
+00011285_000.png	Fibrosis
+00028414_001.png	Fibrosis
+00005532_035.png	Fibrosis
+00016933_000.png	Fibrosis
+00000426_001.png	Fibrosis
+00008491_000.png	Fibrosis
+00000403_000.png	Fibrosis
+00002905_001.png	Fibrosis
+00000024_000.png	Fibrosis
+00000586_000.png	Fibrosis
+00003887_001.png	Fibrosis
+00002146_000.png	Fibrosis
+00026510_000.png	Fibrosis
+00002763_002.png	Fibrosis
+00002763_001.png	Fibrosis
+00012638_000.png	Fibrosis
+00011087_001.png	Fibrosis
+00022310_001.png	Fibrosis
+00007871_001.png	Fibrosis
+00017189_000.png	Fibrosis
+00005341_000.png	Fibrosis
+00017167_006.png	Fibrosis
+00003427_000.png	Fibrosis
+00025258_001.png	Fibrosis
+00025512_001.png	Fibrosis
+00003460_000.png	Fibrosis
+00003460_002.png	Fibrosis
+00003460_003.png	Fibrosis
+00022280_001.png	Fibrosis
+00019745_002.png	Fibrosis
+00018921_032.png	Fibrosis
+00006258_000.png	Fibrosis
+00011543_002.png	Fibrosis
+00007507_000.png	Fibrosis
+00004106_003.png	Fibrosis
+00002350_013.png	Fibrosis
+00002517_000.png	Fibrosis
+00000092_003.png	Fibrosis
+00000092_002.png	Fibrosis
+00000224_000.png	Fibrosis
+00021048_000.png	Fibrosis
+00023564_000.png	Fibrosis
+00003022_001.png	Fibrosis
+00003022_000.png	Fibrosis
+00014415_000.png	Fibrosis
+00026956_004.png	Fibrosis
+00002112_002.png	Fibrosis
+00015628_027.png	Fibrosis
+00023332_000.png	Fibrosis
+00008657_000.png	Fibrosis
+00006329_002.png	Fibrosis
+00006329_006.png	Fibrosis
+00002226_000.png	Fibrosis
+00017405_006.png	Fibrosis
+00000492_000.png	Fibrosis
+00007498_000.png	Fibrosis
+00010272_001.png	Fibrosis
+00002337_000.png	Fibrosis
+00006199_013.png	Fibrosis
+00018806_000.png	Fibrosis
+00018806_005.png	Fibrosis
+00015087_004.png	Fibrosis
+00029604_001.png	Fibrosis
+00001810_000.png	Fibrosis
+00009239_002.png	Fibrosis
+00009239_001.png	Fibrosis
+00022415_002.png	Fibrosis
+00022415_004.png	Fibrosis
+00022415_003.png	Fibrosis
+00007257_000.png	Fibrosis
+00006393_005.png	Fibrosis
+00006571_001.png	Fibrosis
+00010531_086.png	Fibrosis
+00005420_003.png	Fibrosis
+00000825_002.png	Fibrosis
+00001998_000.png	Fibrosis
+00013847_000.png	Fibrosis
+00000017_002.png	No Finding
+00017106_015.png	No Finding
+00025020_000.png	No Finding
+00000667_000.png	No Finding
+00012126_000.png	No Finding
+00003769_002.png	No Finding
+00015035_000.png	No Finding
+00014646_004.png	No Finding
+00020050_001.png	No Finding
+00008524_000.png	No Finding
+00013671_000.png	No Finding
+00008761_001.png	No Finding
+00023956_000.png	No Finding
+00007749_000.png	No Finding
+00016280_002.png	No Finding
+00005215_000.png	No Finding
+00012413_005.png	No Finding
+00023760_000.png	No Finding
+00018827_000.png	No Finding
+00011600_000.png	No Finding
+00013286_001.png	No Finding
+00014565_001.png	No Finding
+00006886_000.png	No Finding
+00010601_001.png	No Finding
+00011629_000.png	No Finding
+00018642_004.png	No Finding
+00009461_000.png	No Finding
+00025009_000.png	No Finding
+00013793_001.png	No Finding
+00023794_000.png	No Finding
+00023207_001.png	No Finding
+00023622_000.png	No Finding
+00025509_000.png	No Finding
+00028087_001.png	No Finding
+00027607_000.png	No Finding
+00007954_000.png	No Finding
+00026140_000.png	No Finding
+00017855_000.png	No Finding
+00019624_004.png	No Finding
+00019430_002.png	No Finding
+00016290_000.png	No Finding
+00001755_000.png	No Finding
+00011322_003.png	No Finding
+00010809_000.png	No Finding
+00028103_000.png	No Finding
+00011219_000.png	No Finding
+00021758_000.png	No Finding
+00022873_000.png	No Finding
+00006289_003.png	No Finding
+00000414_000.png	No Finding
+00005495_001.png	No Finding
+00003576_000.png	No Finding
+00015466_002.png	No Finding
+00024203_000.png	No Finding
+00005820_000.png	No Finding
+00008319_000.png	No Finding
+00029023_000.png	No Finding
+00008384_003.png	No Finding
+00022517_001.png	No Finding
+00025877_009.png	No Finding
+00022496_000.png	No Finding
+00029124_001.png	No Finding
+00011988_000.png	No Finding
+00023437_000.png	No Finding
+00001186_000.png	No Finding
+00014973_000.png	No Finding
+00017693_000.png	No Finding
+00030173_001.png	No Finding
+00019974_000.png	No Finding
+00003325_000.png	No Finding
+00027907_000.png	No Finding
+00002222_000.png	No Finding
+00026740_000.png	No Finding
+00030729_000.png	No Finding
+00022574_001.png	No Finding
+00023425_000.png	No Finding
+00023649_000.png	No Finding
+00014712_001.png	No Finding
+00005459_000.png	No Finding
+00001022_002.png	No Finding
+00018643_002.png	No Finding
+00028226_000.png	No Finding
+00013727_000.png	No Finding
+00030487_000.png	No Finding
+00017595_002.png	No Finding
+00011287_003.png	No Finding
+00016944_005.png	No Finding
+00022811_001.png	No Finding
+00017057_000.png	No Finding
+00015813_005.png	No Finding
+00025543_018.png	No Finding
+00027742_001.png	No Finding
+00022959_000.png	No Finding
+00022576_000.png	No Finding
+00005282_000.png	No Finding
+00020734_000.png	No Finding
+00024780_000.png	No Finding
+00014878_000.png	No Finding
+00011487_000.png	No Finding
+00001118_000.png	No Finding
+00009351_000.png	No Finding
+00003471_000.png	No Finding
